@@ -1,0 +1,30 @@
+#List-numerals {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    color: rgba(55, 3, 104, 0.628);
+}
+* {
+    background-color: #c27ba0;
+   
+}
+
+p {
+    text-align: center;
+    margin: 50px;
+    padding: 20px;
+    border: 2px solid #ffffff39;
+}
+.styled-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    border: #FFFFFF 5px solid;
+
+}
+
+.content {
+    text-align: center;
+    margin: 30px;
+}
